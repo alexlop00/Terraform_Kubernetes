@@ -17,6 +17,8 @@ include AWS best security practices guide
 ## Outside of the Scope of This Manual
 
 AWS User, AWS Account
+Requires AWS Role (for use by EC2) w/ the Following Permissions -----> ec2FullAccess, IAMFullAccess, S3FullAccess, VPCFullAccess, Route53FullAccess
+Configured Route 53 Hosted Zone
 
 # Directions
 
