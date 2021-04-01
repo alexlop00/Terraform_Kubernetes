@@ -41,3 +41,4 @@ terraform init
 terraform kube.tf -auto-approve
 
 ### View the Created Resources
+Refer to Proof of Concept (POC) directory to view screen captures of provisioned infrastructure. 
