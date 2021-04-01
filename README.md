@@ -7,8 +7,12 @@
 ## Intended Audience
 
 ## Warnings
+open ssh - security group
+s3 bucket is not encrypted, 
+ec2 image is not hardened, 
+include AWS best security practices guide
 
-# List of Equipment and Materials Needed
+# List of Equipment and Materials
 
 ## Outside of the Scope of This Manual
 
